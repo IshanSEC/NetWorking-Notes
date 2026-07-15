@@ -6,10 +6,10 @@
 
 <img src="assets/banner.png" alt="Networking Fundamentals Banner" width="100%">
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/USERNAME/Networking-Fundamentals?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/USERNAME/Networking-Fundamentals?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/USERNAME/Networking-Fundamentals?style=for-the-badge)
-![License](https://img.shields.io/github/license/USERNAME/Networking-Fundamentals?style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/IshanSEC/NetWorking-Notes?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/IshanSEC/NetWorking-Notes?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/IshanSEC/NetWorking-Notes?style=for-the-badge)
+![License](https://img.shields.io/github/license/IshanSEC/NetWorking-Notes?style=for-the-badge)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success?style=for-the-badge)
 
 </div>
